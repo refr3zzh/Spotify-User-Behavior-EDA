@@ -5,17 +5,19 @@ Spotify, being a music streaming platform, would have a wide range of questions 
 
 User Engagement and Retention:
 
-How frequently are users listening to music on Spotify?
-Are there specific time periods when user activity is higher?
-What factors contribute to users staying engaged with the platform over time?
+* How frequently are users listening to music on Spotify?
+* Are there specific time periods when user activity is higher?
+* What factors contribute to users staying engaged with the platform over time?
+
 Content Consumption Patterns:
 
-What genres or artists are the most popular among different user segments?
-How often are users skipping tracks or creating playlists?
-Are there patterns in the type of content users consume during certain activities (e.g., working out, studying)?
+* What genres or artists are the most popular among different user segments?
+* How often are users skipping tracks or creating playlists?
+* Are there patterns in the type of content users consume during certain activities (e.g., working out, studying)?
+
 Personalization and Recommendations:
 
-How effective are the recommendation algorithms in suggesting relevant songs or playlists?
+* How effective are the recommendation algorithms in suggesting relevant songs or playlists?
 What features contribute to users' satisfaction with personalized recommendations?
 How often do users save recommended songs to their libraries?
 Playlist Creation and Sharing:
