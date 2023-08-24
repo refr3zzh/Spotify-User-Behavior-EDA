@@ -12,7 +12,6 @@ User Engagement and Retention:
 Content Consumption Patterns:
 
 4. What genres or artists are the most popular among different user segments?
-5. How often are users skipping tracks or creating playlists?
 6. Are there patterns in the type of content users consume during certain activities (e.g., working out, studying)?
 
 Personalization and Recommendations:
