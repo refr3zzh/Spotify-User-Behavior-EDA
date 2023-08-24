@@ -7,7 +7,7 @@ User Engagement and Retention:
 
 1. How frequently are users listening to music on Spotify?
 2. Are there specific time periods when user activity is higher?
-3. What factors contribute to users staying engaged with the platform over time?
+3. Which user group engage with the platform the most over time?
 
 Content Consumption Patterns:
 
