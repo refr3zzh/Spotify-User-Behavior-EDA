@@ -18,6 +18,9 @@ Device and Platform Usage:
 
 6. Which devices and platforms (mobile, desktop, smart speakers) do users prefer for music streaming?
 
-Conversion and Monetization:
+Some general analysis: 
+1. Conversion and Monetization
+2. Customer feedback and rating
+3. Podcast listening frequency
 
 These are just a few examples of the many questions Spotify's user behavior data could help answer. By analyzing these aspects, Spotify can continually refine its service, tailor its recommendations, and create a more enjoyable and personalized experience for its users.
